@@ -4,5 +4,7 @@ public class MainS{
         System.out.println("*********");
         System.out.println("戦艦ゲーム");
         System.out.println("*********");
+        //ターンカウント
+        int cnt++
     }
 }
