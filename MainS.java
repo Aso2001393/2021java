@@ -6,5 +6,6 @@ public class MainS{
         System.out.println("*********");
         //ターンカウント
         int cnt++
+            int[][] field = [4][4]
     }
 }
